@@ -7,7 +7,7 @@
                         <div class="text-white text-center align-items-center px-4 px-md-5 my-margin-top">
                             <div>
                               <h1 class="py-1 font-weight-bold animated fadeIn" style="animation-delay: 700ms;">
-                                <strong class="welcome">Välkommen till ProcessMekanik</strong>
+                                <strong class="welcome font-weight-bold">Välkommen till ProcessMekanik</strong>
                               </h1>
                               <p id="slogan" class="animated fadeIn" style="animation-delay: 800ms;">
                                 Vi är konsulten som projekterar rör- och processanläggningar för <br> energiproducenter och industri.
