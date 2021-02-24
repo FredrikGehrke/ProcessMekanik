@@ -36,7 +36,8 @@
 }
 
 .my-nav-color {
-    background: rgba(32, 32, 32, 0.555);
+    background: rgba(32, 32, 32, 0.76);
+    /* background: rgba(32, 32, 32, 0.555); */
 }
 
 #my-toggler-icon {
@@ -96,7 +97,7 @@
         width: 0%;
         content: '.';
         color: transparent;
-        background: #00C851;
+        background: #2979ff;
         height: 3px;
     }
     nav.stroke ul li a:hover:after {

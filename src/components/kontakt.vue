@@ -162,7 +162,7 @@ export default {
 
       if(this.ValidName === true && this.ValidEmail === true && this.ValidPhone === true) {
         try {
-          emailjs.sendForm('service_vvw6r3a', 'template_nr78esb', e.target, 'user_6ZLxEOc8AUgESCsoGdlFa', {
+          emailjs.sendForm('service_vvw6r3a', 'template_pzikc5s', e.target, 'user_6OBDttcckHAGVmgu5xM4r', {
             name: this.name,
             email: this.email,
             message: this.message,

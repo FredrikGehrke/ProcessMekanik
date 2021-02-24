@@ -3,7 +3,7 @@
         <div class="my-overlay">
             <section class="text-center">
                 <div class="col-md-12 p-0">
-                    <div class="card">
+                    <div class="card pt-5 pt-sm-0">
                         <div class="text-white text-center align-items-center px-4 px-md-5 my-margin-top">
                             <div>
                               <h1 class="py-1 font-weight-bold animated fadeIn" style="animation-delay: 700ms;">
@@ -69,7 +69,8 @@
 }
 
 .my-overlay {
-  background: rgba(0, 0, 0, 0.781);
+  /* background: rgba(0, 0, 0, 0.781); */
+  background: #6385968c;
 }
 
 </style>
