@@ -15,14 +15,14 @@
       </ul>
     </div> -->
     <div class="container pb-5 py-5 pb-sm-0 wow fadeIn" style="animation-delay: 1000ms;">
-      <div class="row text-white">
+      <div class="row">
         <div class="col-md-8">
-          <h1 class="theme-color">Våra tjänster</h1>
+          <h1 class="">Våra tjänster</h1>
           <hr class="my-4 theme-bg">
           <p class="mb-0">
             Vi projekterar och konstruerar rörsystem för energi-och processindustri. Detta innefattar:
           </p>
-          <ul class="text-white mt-3 ml-0">
+          <ul class="mt-3 ml-0">
             <li class="visited">Mekanisk konstruktion av rör och tryckkärl</li>
             <li class="visited">Hållfasthetsberäkning och spänningsanalys av rörsystem</li>
             <li class="visited">Projektledning</li>
@@ -47,7 +47,8 @@ export default {
 <style scoped>
 
 .bg-color {
-  background: rgb(31, 31, 31);
+  background: #90a4ae;
+  /* background: rgb(31, 31, 31); */
 }
 
 ul {
