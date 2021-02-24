@@ -1,6 +1,6 @@
 <template>
-    <div class="py-5 z-depth-1 bg-color">
-        <section class="white-text container animated fadeIn">
+    <div class="py-5 z-depth-1 lighter-bg">
+        <section class="container animated fadeIn">
             <div class="row pr-lg-5">
                 <div class="col-md-6 mb-4 my-auto">
 
@@ -18,7 +18,7 @@
                 <div class="col-md-6 d-flex align-items-center">
                     <div>
                     
-                    <h1 class="font-weight-bold mb-2 theme-color wow fadeIn" style="animation-delay: 400ms;">Om företaget</h1>
+                    <h1 class="font-weight-bold mb-2 wow fadeIn" style="animation-delay: 400ms;">Om företaget</h1>
                     <div class="wow fadeIn" style="animation-delay: 500ms;">
                       <p class="mb-4">Vi startade år 2000 och är två ingenjörer.</p>
 
