@@ -61,21 +61,10 @@ ul {
 }
 
 li {
-  /* overflow: hidden; */
   position: relative;
   padding: 0 0 10px 35px;
 }
 
-li::before {
-  /* content: '';
-  position: absolute;
-  left: 5px;
-  top: 8px;
-  width: 20px;
-  height: 25px;
-  border: 2px solid lightgray;
-  border-width: 2px 0 0 2px; */
-}
 
 li:last-child::before {
   border-width: 2px 0 0 0;
@@ -106,7 +95,5 @@ li.visited::after {
   border-color: var(--theme-color);
   margin-top: 4.5px;
 }
-
-
 
 </style>
